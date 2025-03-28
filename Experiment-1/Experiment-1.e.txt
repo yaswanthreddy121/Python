@@ -1,0 +1,14 @@
+base=float(input("base:"))
+
+height=float(input("height;"))
+
+area=1/2*(base*height)
+
+print("area of a triangle is:",area)
+
+Output:
+base:89
+
+height:90
+
+area of a triangle is: 4005.0
